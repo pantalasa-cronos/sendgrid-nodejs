@@ -78,3 +78,5 @@ If you need help using SendGrid, please check the [Twilio SendGrid Support Help 
 <a name="license"></a>
 # License
 [The MIT License (MIT)](LICENSE)
+
+<!-- cronos-trigger: 2026-05-22T02:14:13Z -->
